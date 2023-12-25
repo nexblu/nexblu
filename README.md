@@ -1,5 +1,5 @@
 # 💫 Hi, I'm usually called Adit
-🔭 I’m currently working on Web, Mobile, Desktop App And Discord Boy<br>👯 I’m looking to collaborate on Google Developer Indonesia
+🔭 I’m currently working on Web, Mobile, Desktop App And Discord Bot App<br>👯 I’m looking to collaborate on Google Developer Indonesia
 
 
 ## 🌐 Socials:
