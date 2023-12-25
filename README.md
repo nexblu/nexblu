@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hi, I'm usually called Adit
+🔭 I’m currently working on Web, Mobile, Desktop App And Discord Boy<br>👯 I’m looking to collaborate on Google Developer Indonesia
 
 
 ## 🌐 Socials:
