@@ -5,7 +5,7 @@ My name is Adit, I'm a developer from Indonesia
 - :globe_with_meridians: BackEnd Developer
 - :globe_with_meridians: Web Developer
 - 📝 Maintainer in [Fidea E-Commerce](https://github.com/Fidea-Ecommerce)
-- 🌱 I’m currently learning TO FOCUS BackEnd Developer
+- 🌱 I’m currently learning to focus BackEnd Developer
 
 ## 🛠 Tools
 
